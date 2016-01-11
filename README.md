@@ -1,0 +1,2 @@
+# android_device_samsung_grandprimeve3g_kernel
+# samsung_g531h_kernel
